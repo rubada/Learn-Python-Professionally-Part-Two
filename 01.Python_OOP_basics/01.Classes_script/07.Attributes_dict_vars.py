@@ -35,31 +35,18 @@ class MathOperations:
         return self.a / self.b
 
 
-# 1. Object1
-math_op_obj1 = MathOperations(2, 3, 5)
-obj1_dict_attributes = math_op_obj1.__dict__
+math_op_obj = MathOperations(2, 3, 5)
+obj_dict_attributes = math_op_obj.__dict__
 # print("Using __dict__:")
-# print(obj1_dict_attributes)
+# print(obj_dict_attributes)
 
 # Adding new attribute
-# obj1_dict_attributes["d"] = 8
-# print(obj1_dict_attributes)
+# obj_dict_attributes["d"] = 8
+# print(obj_dict_attributes)
 
-print("Using vars():")
-# print(vars(math_op_obj1))
-
-# 2. Object2
-math_op_obj2 = MathOperations(1, 2)
-obj2_dict_attributes = math_op_obj2.__dict__
-# print("Using __dict__:")
-# print(obj2_dict_attributes)
-
-# Adding new attribute
-# obj2_dict_attributes["d"] = 7
-# print(obj2_dict_attributes)
 
 # print("Using vars():")
-# print(vars(math_op_obj2))
+# print(vars(math_op_obj))
 
 
 # When using __dict__ on the class itself, it will return all the
