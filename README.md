@@ -12,3 +12,4 @@ In Learn-Python-Professionally-Part-Two, Python Object Oriented Programming will
 To learn more about this course, please check below course contents, all the videos related to this course are on my youtube channel [Intuidemy](https://www.youtube.com/@Intuidemy/playlists).
 
 01. [Python OOP Basics.](https://www.youtube.com/playlist?list=PLD06In0ejHWYTvB-wBW7Q1-f66WOKfSo9)
+02. [Python OOP Dunder or Magic Methods.](https://www.youtube.com/playlist?list=PLD06In0ejHWb5i7_T29-p5pRgT39HmHJ5)
