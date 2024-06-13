@@ -13,3 +13,4 @@ To learn more about this course, please check below course contents, all the vid
 
 01. [Python OOP Basics.](https://www.youtube.com/playlist?list=PLD06In0ejHWYTvB-wBW7Q1-f66WOKfSo9)
 02. [Python OOP Dunder or Magic Methods.](https://www.youtube.com/playlist?list=PLD06In0ejHWb5i7_T29-p5pRgT39HmHJ5)
+03. [Python OOP: Four Pillars.](https://www.youtube.com/playlist?list=PLD06In0ejHWaOKgxrH89Oqqcy8JkCej-w)
