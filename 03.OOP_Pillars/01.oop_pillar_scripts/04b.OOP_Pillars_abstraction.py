@@ -67,9 +67,9 @@ class RectanglePrism(Shapes3d):
         return "Rectangle Prism doesn't have a diameter."
 
     def diagonal(self):
-        lwh_saquare = (math.pow(self.length, 2) + math.pow(self.width, 2) +
-                       math.pow(self.height, 2))
-        diagonal = math.sqrt(lwh_saquare)
+        lwh_square = (math.pow(self.length, 2) + math.pow(self.width, 2) +
+                      math.pow(self.height, 2))
+        diagonal = math.sqrt(lwh_square)
         return diagonal
 
 
