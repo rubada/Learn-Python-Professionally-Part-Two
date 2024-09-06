@@ -6,6 +6,7 @@ Advance your skills and start your career here, by taking the online courses on 
 طور مهاراتك وابدأ حياتك المهنية هنا، من خلال حضور الدورات التدريبية على قناتنا. دورتنا الأولى هي دورة بايثون. تفتح بايثون العديد من فرص العمل، مثل عالم ومحلل البيانات، والذكاء الاصطناعي، ومهندس البيانات، ومختبر الأتمتة والمزيد. إذا كانت بايثون هي ما تبحث عنه، فابدأ هنا واشترك لتلقي إشعارات حول دوراتنا الجديدة
 
 #### [Check Learn-Python-Professionally-Part-One](https://github.com/rubada/Learn-Python-Professionally-Part-One).
+#### [Check Learn-Python-Professionally-Part-Three](https://github.com/rubada/Learn-Python-Professionally-Part-Three).
 
 In Learn-Python-Professionally-Part-Two, Python Object Oriented Programming will be discussed in detail.
 
